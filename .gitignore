@@ -1,0 +1,17 @@
+# Entorno virtual
+venv/
+env/
+.env
+
+# Python (archivos compilados)
+__pycache__/
+*.py[cod]
+
+# Datos (no queremos trackear CSVs gigantes o bases de datos locales)
+*.csv
+*.json
+*.sqlite3
+
+# IDEs
+.vscode/
+.idea/
