@@ -1,0 +1,6 @@
+googlemaps
+pandas
+python-dotenv
+matplotlib
+seaborn
+jupyterlab
